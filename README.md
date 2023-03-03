@@ -40,4 +40,4 @@ The second phase could be to get post login clients to ask questions about their
 
 ### Demo
 
-![alt text](https://github.com/ballavamsi/Hackathon-tideAssist/blob/main/media/demo.mp4 "Demo")
+![alt text](https://github.com/ballavamsi/Hackathon-tideAssist/blob/main/media/demo.gif "Demo")
