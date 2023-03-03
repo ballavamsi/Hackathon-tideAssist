@@ -1,0 +1,27 @@
+Page: https://www.tide.co/about
+
+Heading: Tide is about doing what you love
+Description: We believe the world would be a better place if more people gave it a shot.
+It’s why we’re building a modern business current account that gives time back to people who work for themselves.
+So you can get back to doing what you love.
+Open an account: https://web.tide.co/sign-up/
+
+
+Heading: Meet the team
+Description: A 800-strong band of tech and member-focused people headquartered in London and working hard to bring you a better business account.
+
+Heading: CEO: Oliver Prill
+Description: Oliver joined Tide in 2018 and has led its rapid scaling into the UK’s leading business financial platform. He has over 20 years leadership experience in financial services, having worked across the banking and insurance sectors.
+In many of his roles Oliver has worked closely with small business owners and has always been inspired by their energy and passion. However, he knows that for too long they have been let down by traditional banks. Oliver is adamant to put founders at the forefront of Tide’s agenda and bring a better business banking alternative to small businesses for good.
+
+Heading: Chair: Sir Donald Brydon
+Description: Sir Donald Brydon was appointed as independent Chair and Director in September 2020 to lead the Board and support Tide’s continued growth. Sir Donald brings significant Board experience, including the Chairmanships of leading listed companies such as the Sage Group, the London Stock Exchange and the Royal Mail Group.
+
+Heading: Tide office locations
+Description: Headquartered in central London, with an office in Sofia, Bulgaria and Hyderabad, India.
+
+Heading: A business bank account that's free, easy to open, and helps you start doing what you love.
+Description: Tide is about doing what you love. That’s why we’re trusted by 450,000+ sole traders, freelancers and limited companies throughout the UK.
+
+Q: Shom me list of plans.
+Tide offers 4 plans Free, Plus, Pro and Cashback plans. You can chose the one that suits you by visiting https://www.tide.co/pricing/
