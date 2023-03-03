@@ -4,7 +4,7 @@ This is an assistant created powered by OpenAI to get answers to questions with 
 For now we are just ingesting few pages which can be found in ./data folder
 
 ## How to run
-You have to create account with OpenAI and get the API_KEY and place it ./data/.env file.
+You have to create account with OpenAI and get the API_KEY and place it ./conf/.env file.
 
 ```
 OPENAI_API_KEY=[YourKey]
