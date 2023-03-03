@@ -1,0 +1,47 @@
+page: https://www.tide.co/features/
+
+Q: Features
+APP & ACCOUNT FEATURES
+All your business finance needs in one place
+Manage your business finances anywhere, anytime with Tide. Open a business bank account today and get built-in tools for invoicing, accounting, expenses and more
+Open an account with https://web.tide.co/sign-up/
+
+Heading: Control all your finances from one app
+Description:
+1. Get paid on time: Create, send and track invoices in-app, and generate secure payment links to get paid faster.
+2. Automate tax and accounting: Use our simple, built-in accounting software or connect your account to Xero, Sage, and others.
+3. Control company spending: Eliminate manual expense claims and monitor all your company spending with Tide Expense Cards.
+4. Forecast cash flow: Get automated forecasts of incomings and outgoings, and tips for avoiding shortfalls.
+5. Apply for business loans: Start your business or fund its growth with tailored borrowing from our trusted credit partners.
+6. Improve your credit score: Track your business credit score and take steps to improve with our Credit Builder solution.
+
+Heading: Smart features at your fingertips
+Description: More than 450,000 entrepreneurs take care of their business banking and finances with Tide. Here’s how you could reduce your admin and get more time to do what you love.
+1. Get paid on time with in-app invoices : Generate invoices and send them to customers directly from the Tide app, as soon as you finish the job. Upgrade for automatic late invoice chasing to cut down on your admin.
+-> Generate and send professional invoices
+-> Match payments to invoices to see who’s paid
+-> Spend less time chasing late payments
+-> Link : https://www.tide.co/features/invoicing/
+2. Control company spending with Expense Cards: Eliminate manual expense claims. Give your team flexibility to make company purchases directly from your account. Set individual spending limits and monitor everything in the app.
+-> Spending itemised by person and category
+-> Upload receipt pics and match to transactions
+-> Monitor spending and change limits instantly
+-> Link : https://www.tide.co/features/expense-cards/
+3. Simplify taxes with our built-in accounting software: Avoid manual accounting admin with the small business accounting software that’s built into your Tide bank account. Try it free until May 2023, then pay just £6.99 +VAT a month.
+-> Automate accounting tasks to save valuable time
+-> Get automated, real-time estimates of your tax bill
+-> Simple and easy to use, ideal for busy entrepreneurs
+-> Link: https://www.tide.co/features/accounting-software/
+4. Forecast cash flow to improve financial health: Keep your finances healthy with automated 30-day cash flow forecasts. Receive actionable tips for maintaining a strong position and track your credit score with Experian.
+-> View status of incoming and outgoing payments
+-> See your predicted account balance 30 days ahead
+-> Get suggested actions to improve your cash flow
+-> Link: https://www.tide.co/features/cashflow-insights/
+5. Start or grow your business with affordable borrowing: Your Tide account usage helps us see where credit could help you thrive. We’ll run pre-eligibility checks to show you suitable borrowing options from our partner lenders.
+-> Pre-eligibility checks don’t affect your credit score
+-> Apply online within minutes for business loans
+-> Get quick decisions and receive funds within hours
+-> Link: https://www.tide.co/features/business-loans/
+
+Feedbacks:
+"Tide seemed (and is) the most modern option out there. We didn't want to have to run to the bank constantly or spend our days on the phone with the bank when we could be making money!" said Jenna Hill - Director at Chill Gas Ltd
