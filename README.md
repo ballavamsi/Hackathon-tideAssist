@@ -36,8 +36,8 @@ The second phase could be to get post login clients to ask questions about their
 
 ### Screenshot
 
-![alt text](.\media\sample.png "Sample screen")
+![alt text](https://github.com/ballavamsi/Hackathon-tideAssist/blob/main/media/sample.png "Sample screen")
 
 ### Demo
 
-![alt text](.\media\demo.gif "Gif sample")
+![alt text](https://github.com/ballavamsi/Hackathon-tideAssist/blob/main/media/demo.mp4 "Demo")
