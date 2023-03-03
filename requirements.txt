@@ -1,0 +1,11 @@
+transformers
+sentencepiece
+openai
+gradio
+gpt-index
+langchain
+unstructured
+chromadb
+html2text
+tiktoken
+google-api-python-client
