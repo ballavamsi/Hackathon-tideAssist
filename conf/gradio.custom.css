@@ -1,0 +1,83 @@
+button.primary{
+    background: #4050FB!important;
+    border: #4050FB!important;
+}
+
+
+#chatbot{
+    width: 600px;
+}
+
+div[data-testid="bot"], div[data-testid="user"]{
+    font-size: 1.2rem!important;
+}
+
+
+gradio-app {
+    background: #131B78!important;
+    background: linear-gradient(90deg, #070d4b 0%, #060b3d 100%)!important;
+}
+
+.gradio-container.app.with-info.dark {
+    background-color: transparent;
+    /* background-color: #131B78!important; */
+}
+
+.secondary-color b{
+    color: #4852D8!important;
+}
+
+div#tideAssist{
+    background-color: #F2F2F2!important;
+    border: 0px !important;
+    height:600px;
+}
+textarea.scroll-hide{
+    background: #F2F2F2!important;
+    border: 0px !important;
+    color: #131B78!important;
+    font-size: 1.2rem!important;
+}
+
+.contain {
+    width: 600px;
+    display: flex;
+}
+
+.gradio-container {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    display: none!important;
+}
+
+/* Apple like scrollbar */
+/* Works on Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #131B78 #4852D8;
+  }
+  
+  /* Works on Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  *::-webkit-scrollbar-track {
+    background: #4852D8;
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    background-color: #131B78;
+    border-radius: 20px;
+    border: 3px solid #4852D8;
+  }
+/* End of scrollbar styling */
